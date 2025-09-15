@@ -1,5 +1,19 @@
 body{
-    background-color: rgb(140, 88, 208);
+    background-color: rgb(187, 149, 236);
     color: rgb(103, 228, 228);
 font-family: "Epunda Slab", serif;
+margin: 0px;
+}
+
+header{
+    font-size: 56px;
+    border: solid 8px rgb(141, 141, 235)
+}
+
+h1{
+    font-size: 33px;
+}
+
+p{
+    font-size: 23px;
 }
