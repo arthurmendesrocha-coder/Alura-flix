@@ -21,3 +21,11 @@ h1{
 p{
     font-size: 23px;
 }
+section{
+background-color: rgb(117, 224, 176);
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+
+}
